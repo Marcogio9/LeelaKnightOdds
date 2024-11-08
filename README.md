@@ -12,7 +12,7 @@ LeelaKnightOdds is a chess neural network fine-tuned on Knight Odds games for Le
 ### Usage
 To use the LeelaKnightOdds network with Leela Chess Zero:
 
-- Download the neural network weights (available [here]()).
+- Download the neural network weights
 
 - Load this model in the Leela Chess Zero settings.
 
