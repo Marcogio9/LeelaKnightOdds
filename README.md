@@ -1,5 +1,5 @@
 ## LeelaKnightOdds
-LeelaKnightOdds is a neural network model trained on knight odds for Leela Chess Zero.
+LeelaKnightOdds is a chess neural network model trained on knight odds for Leela Chess Zero.
 
 ### Usage
 To use the LeelaKnightOdds network with Leela Chess Zero:
