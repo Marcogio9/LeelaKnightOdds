@@ -1,11 +1,10 @@
 ## LeelaKnightOdds
-LeelaKnightOdds is a neural network model trained on knight odds for Leela Chess.
+LeelaKnightOdds is a neural network model trained on knight odds for Leela Chess Zero.
 
 ### Usage
-To use the LeelaKnightOdds network with Leela Chess:
+To use the LeelaKnightOdds network with Leela Chess Zero:
 Download the pre-trained neural network weights (available [here]()).
-Place the .weights file in your Leela Chess directory.
-In Leela Chess, update the configuration to load this model.
+Load this model in the Leela Chess Zero settings.
 
 ### License
 This repository is released under the non-commercial license, which restricts commercial use of the model.
